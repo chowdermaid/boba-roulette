@@ -1,0 +1,23 @@
+{
+    "coco" : {
+        "base" : [
+            "Regular Milk Tea",
+            "Matcha Milk Tea"
+        ], 
+        "toppings" : [
+            "Pearls", 
+            "Coconut Jelly"
+        ]
+    },
+
+    "gongcha" : {
+        "base" : [
+            "Regular Milk Tea",
+            "Matcha Milk Tea"
+        ], 
+        "toppings" : [
+            "Pearls", 
+            "Coconut Jelly"
+        ]
+    }
+}
