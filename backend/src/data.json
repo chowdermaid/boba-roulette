@@ -1,22 +1,67 @@
 {
-    "coco" : {
-        "base" : [
+    "coco": {
+        "base": [
             "Regular Milk Tea",
-            "Matcha Milk Tea"
-        ], 
-        "toppings" : [
-            "Pearls", 
-            "Coconut Jelly"
+            "Matcha Milk Tea",
+            "Black Tea Latte",
+            "Roasted Milk Tea",
+            "Taro Milk Tea",
+            "Jasmine Milk Tea",
+            "Caramel Milk Tea",
+            "CoCo Black Tea",
+            "CoCo Green Tea",
+            "Roasted Tea",
+            "Mango Green Tea",
+            "Passionfruit Black Tea",
+            "Passionfruit Green Tea",
+            "Fresh Lemon Black Tea",
+            "Fresh Lemon Green Tea",
+            "Wintermelon Juice",
+            "Green Tea Yogurt",
+            "Mango Yogurt",
+            "Fresh Lemon Yogurt",
+            "Fresh Orange Yogurt",
+            "Fresh Apple Yogurt",
+            "Taro Slush",
+            "Mango Slush",
+            "Passionfruit & Mango Slush",
+            "Matcha Smoothie",
+            "Chocolate Slush",
+            "Mango Smoothie"
+        ],
+        "toppings": [
+            "Pearls",
+            "Coconut Jelly",
+            "Pudding",
+            "Grass Jelly",
+            "Rainbow Jelly",
+            "Cloud",
+            "Lychee Jelly",
+            "Aloe Vera",
+            "Sago",
+            "Red Bean",
+            "Pudding"
         ]
     },
-
-    "gongcha" : {
-        "base" : [
+    "gongcha": {
+        "base": [
             "Regular Milk Tea",
-            "Matcha Milk Tea"
-        ], 
-        "toppings" : [
-            "Pearls", 
+            "Matcha Milk Tea",
+            "Taiwan Black Tea",
+            "Taiwan Green Tea",
+            "Oolong Tea",
+            "Wintermelon Alisan Tea",
+            "Wintermelon Tea",
+            "Alisan Tea",
+            "Lemon Tea",
+            "Passionfruit Green Tea",
+            "Peach Green Tea",
+            "Grapefruit Green Tea",
+            "Grape Green Tea with Basil Seeds",
+            "Apple Green Tea"
+        ],
+        "toppings": [
+            "Pearls",
             "Coconut Jelly"
         ]
     }
