@@ -1,0 +1,141 @@
+{
+    "coco": {
+        "base": 
+        {
+            "milk tea": [
+                "Regular Milk Tea",
+                "Matcha Milk Tea",
+                "Black Tea Latte",
+                "Roasted Milk Tea",
+                "Taro Milk Tea",
+                "Jasmine Milk Tea",
+                "Caramel Milk Tea"
+            ],
+            "milk & cloud": [
+                "Black Tea on Cloud",
+                "Green Tea on Cloud",
+                "Matcha Milk Tea on Cloud",
+                "Roasted Tea on Cloud"
+            ],
+            "tea latte": [
+                "Black Tea Latte",
+                "Wintermelon Latte",
+                "Matcha Latte",
+                "Red Bean Matcha Latte"
+            ],
+            "chocolate": [
+                "CoCo Chocolate",
+                "Caramel Chocolate"
+            ],
+            "fresh tea":[
+                "CoCo Black Tea",
+                "CoCo Green Tea",
+                "Roasted Tea"
+            ],
+            "fruit tea": [
+                "Mango Green Tea",
+                "Passionfruit Black Tea",
+                "Passionfruit Green Tea",
+                "Fresh Lemon Black Tea",
+                "Fresh Lemon Green Tea",
+                "Wintermelon Juice"
+            ],
+            "yoghurt": [
+                "Green Tea Yogurt",
+                "Mango Yogurt",
+                "Fresh Lemon Yogurt",
+                "Fresh Orange Yogurt",
+                "Fresh Apple Yogurt"
+            ],
+            "slush & smoothie" : [
+                "Taro Slush",
+                "Mango Slush",
+                "Passionfruit & Mango Slush",
+                "Matcha Smoothie",
+                "Chocolate Slush",
+                "Mango Smoothie"
+            ]
+         
+        },
+        "toppings": [
+            "Pearls",
+            "Coconut Jelly",
+            "Pudding",
+            "Grass Jelly",
+            "Rainbow Jelly",
+            "Cloud",
+            "Lychee Jelly",
+            "Aloe Vera",
+            "Sago",
+            "Red Bean",
+            "Pudding"
+        ]
+    },
+    "gongcha": {
+        "base": [
+            "Regular Milk Tea",
+            "Matcha Milk Tea",
+            "Taiwan Black Tea",
+            "Taiwan Green Tea",
+            "Oolong Tea",
+            "Wintermelon Alisan Tea",
+            "Wintermelon Tea",
+            "Alisan Tea",
+            "Lemon Tea",
+            "Passionfruit Green Tea",
+            "Peach Green Tea",
+            "Grapefruit Green Tea",
+            "Grape Green Tea",
+            "Apple Green Tea",
+            "Plum Green Tea",
+            "Mango Alisan Tea",
+            "Lychee Oolong Tea",
+            "Matca Tea Latte",
+            "Honey Lemon Tea",
+            "Lemon Roasted Melon Tea",
+            "Ginger Tea",
+            "Roselle Plum Tea",
+            "Longan Red Date Tea",
+            "Earl Grey Tea",
+            "Sticky Brown Sugar Fresh Milk",
+            "Matcha Chocolate",
+            "Strawberry Chocolate Milk Tea",
+            "Strawberry Taro Milk Tea",
+            "Mango Fresh Milk",
+            "Wintermelon Latte",
+            "Earl Grey Milk Tea",
+            "Peach Yoghurt Smoothie",
+            "Matcha Smoothie",
+            "Mango Smoothie",
+            "Red Bean Smoothie",
+            "Honeydew Smoothie",
+            "Strawberry Smoothie",
+            "Lemon Yoghurt Smoothie",
+            "Cookie Choco Smoothie",
+            "Grape Yoghurt",
+            "Lemon Yoghurt",
+            "Plum Yoghurt",
+            "Mango Yoghurt",
+            "Green Tea Yoghurt"
+        ],
+        "toppings": [
+            "Oats",
+            "Coffee Jelly",
+            "Basil Seed",
+            "Herbal Jelly",
+            "Aloe Vera",
+            "Coconut Jelly",
+            "White Pearls",
+            "Rainbow Jelly",
+            "Pearls",
+            "Lychee Pearls",
+            "Cookie Pieces",
+            "Red Bean",
+            "3Js",
+            "Ai-Yu Jelly",
+            "Pudding Jelly",
+            "Matcha Milk Foam",
+            "Milk Foam"
+        ]
+    }
+}
